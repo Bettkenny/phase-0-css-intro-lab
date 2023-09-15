@@ -1,10 +1,7 @@
 /* Tag selector to select the 'body' element */
 body {
   <body> 
-  p{ 
-    background: #00b3e6;
-  }
-  
+ 
   /* Your code here! */
 }
 
@@ -23,7 +20,9 @@ div {
   color: red;
 }
 
-* Class selector to select elements containing the class 'perspective-questions' */
+* Class selector to select elements containing the class 
+.perspective-questions
 {
- font style: italic;/* Your code here! */
+
+  font-style: italic;/* Your code here! */
 }
